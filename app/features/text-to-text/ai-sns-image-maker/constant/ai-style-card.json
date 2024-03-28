@@ -1,0 +1,32 @@
+[
+  {
+    "styleTitle": "ロゴ",
+    "description": "",
+    "imageUrl": "/ai-style-image/ai-sns-image-maker/logo.png"
+  },
+  {
+    "styleTitle": "アニメ",
+    "description": "Colorful and lively character illustrations featuring large eyes and exaggerated expressions.",
+    "imageUrl": "/ai-style-image/ai-sns-image-maker/anime.png"
+  },
+  {
+    "styleTitle": "ドット",
+    "description": "8-bit retro game style artwork composed of pixelated dots, featuring characters and landscapes.",
+    "imageUrl": "/ai-style-image/ai-sns-image-maker/dot.png"
+  },
+  {
+    "styleTitle": "水彩画",
+    "description": "Soft and translucent watercolor style illustrations, featuring natural landscapes, flowers, and animals, conveying a gentle and calm impression.",
+    "imageUrl": "/ai-style-image/ai-sns-image-maker/watercolor.png"
+  },
+  {
+    "styleTitle": "モノクロ",
+    "description": "Simple yet profound monochrome sketch style, suitable for cityscapes, portraits, and abstract designs, offering a chic and artistic icon.",
+    "imageUrl": "/ai-style-image/ai-sns-image-maker/sketch.png"
+  },
+  {
+    "styleTitle": "ビンテージ",
+    "description": "Photo style with vintage processing that evokes the atmosphere of the good old days, with faded colors and film texture bringing a nostalgic impression to the icon.",
+    "imageUrl": "/ai-style-image/ai-sns-image-maker/vintage.png"
+  }
+]
